@@ -77,3 +77,5 @@ public decimal CalculateGrade(){
 return (FunctionalityScore * 0.7m) + (CodeQualityScore * 0.3m);
 }
 }
+
+
