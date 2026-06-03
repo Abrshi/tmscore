@@ -30,4 +30,13 @@ public class EnrollmentService
             DateTime.UtcNow
         );
     }
+    public Action<Student>? Listener { get; set; }
+
+public void FinalizeEnrollment(Student s)
+{
+    Console.WriteLine("Persisting to database...");
+
+    Listener?.Invoke(s);
 }
+}
+

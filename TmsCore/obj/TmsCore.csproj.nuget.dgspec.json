@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\TmsCore\\TmsCore.csproj": {}
+    "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\tmscore\\TmsCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\TmsCore\\TmsCore.csproj": {
+    "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\tmscore\\TmsCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\TmsCore\\TmsCore.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\tmscore\\TmsCore.csproj",
         "projectName": "TmsCore",
-        "projectPath": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\TmsCore\\TmsCore.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\tmscore\\TmsCore.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\TmsCore\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\qiyas\\lab\\m1\\tmscore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
